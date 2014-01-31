@@ -1,0 +1,5 @@
+## YAML Template.
+name: Flasks
+main: net.hotpotato.flasks.Flasks
+version: .1A
+---
